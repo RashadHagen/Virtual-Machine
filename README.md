@@ -12,7 +12,7 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/VirtualBox-Create-And-Connect-Windows-OS-As-Host-Only-To-Windows-Server-As-NAT">
+  <a href="https://github.com/RashadHagen/VirtualBox-Connect-Windows-OS-As-Host-Only-To-Windows-Server-As-NAT">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">VirtualBox – Create And Connect Windows OS As Host Only To Windows Server As NAT</strong>
   </a>
   <br/>
